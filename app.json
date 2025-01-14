@@ -1,0 +1,6 @@
+{
+    "name": "hunter-server",
+    "description": "
+personal server for xhunter app",
+    "repository": "https://github.com/anirudhmalik/xhunter/tree/master/xhunter-server"
+}
